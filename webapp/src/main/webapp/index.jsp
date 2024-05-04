@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- head definitions go here -->
-    </head>
-    <body>
-        <!-- Hello world -->
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+</body>
 </html>
